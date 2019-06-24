@@ -3,4 +3,5 @@ In this project I have implemented the Linear Regression algorithm and compared 
 
 ##Comparision between Sklearn's implementation and my implementation on `boston dataset` <br> 
 
-**Type** ||                     **W**                     ||    **b**    ||     **MSE**     ||     **No. of iterations**
+**SKLearns MSE** || 22.83070152994931 <br>
+**Costom MSE** ||  39.25087753409695  <br>
